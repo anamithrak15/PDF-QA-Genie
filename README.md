@@ -3,6 +3,12 @@ Welcome to the PDF Q&A Chatbot! This application allows you to engage in dialogu
 
 This project is a Large Language Model (LLM) application utilizing Google Gemini Pro and LangChain, where users can chat with multiple PDF documents. The core functionality is achieved with the help of FAISS vector embeddings.
 
+![image](https://github.com/user-attachments/assets/ac558583-7bd6-4832-a955-71ec30489f27)
+
+####Output-
+![image](https://github.com/user-attachments/assets/87d310e5-d986-4219-bc96-4085e88960d5)
+
+
 
 ## Features
 
@@ -45,7 +51,7 @@ This project is a Large Language Model (LLM) application utilizing Google Gemini
 1. Run the Streamlit app:
 
     ```bash
-    streamlit run app.py
+    streamlit run chatbot.py
     ```
 
 2. Open your web browser and navigate to `http://localhost:8501`.
