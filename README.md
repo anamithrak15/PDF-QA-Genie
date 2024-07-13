@@ -17,7 +17,7 @@ This project is a Large Language Model (LLM) application utilizing Google Gemini
 
     ```bash
     git clone https://github.com/anamithrak15/PDF-QA-Genie.git
-    cd pdf-qa-chatbot
+    cd PDF-QA-Genie
     ```
 
 2. Create and activate a virtual environment:
