@@ -41,7 +41,7 @@ This project is a Large Language Model (LLM) application utilizing Google Gemini
     ```
 
 4. Set up your environment variables. Create a `.env` file in the root directory of the project and add your Google API key:
-   Get your Google Gemini API key from - [AI Studio Google](https://aistudio.google.com/app/apikey?_gl=1*605nqu*_ga*MzM5MDUxNTAwLjE3MjA4OTIxNTg.*_ga_P1DBVKWT6V*MTcyMDg5MjE1OC4xLjEuMTcyMDg5MjE2MS41Ny4wLjkwMDAyNzg1Nw..)
+   Get your Google Gemini API key from - [AI Studio Google](https://aistudio.google.com/app/u/0/apikey)
 
     ```env
     GOOGLE_API_KEY=your-google-api-key
