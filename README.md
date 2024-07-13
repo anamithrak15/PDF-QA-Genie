@@ -1,4 +1,4 @@
-# Chat with PDFS
+# Chat with PDFs
 Welcome to the PDF Q&A Chatbot! This application allows you to engage in dialogue with multiple PDF documents using the power of FAISS vector embeddings, Google Gemini Pro, and LangChain.
 
 This project is a Large Language Model (LLM) application utilizing Google Gemini Pro and LangChain, where users can chat with multiple PDF documents. The core functionality is achieved with the help of FAISS vector embeddings.
