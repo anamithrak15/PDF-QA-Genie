@@ -5,7 +5,8 @@ This project is a Large Language Model (LLM) application utilizing Google Gemini
 
 ![image](https://github.com/user-attachments/assets/ac558583-7bd6-4832-a955-71ec30489f27)
 
-####Output-
+### An example of Output-
+
 ![image](https://github.com/user-attachments/assets/87d310e5-d986-4219-bc96-4085e88960d5)
 
 
